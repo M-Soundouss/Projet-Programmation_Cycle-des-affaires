@@ -1,0 +1,734 @@
+# depslib dependency file v1.0
+1398269140 source:c:\users\user\desktop\jeu_best\best_zineb\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"biblio_structure.h"
+
+1398225046 c:\users\user\desktop\jeu_best\best_zineb\biblio_stuct.h
+	<stdlib.h>
+	<stdio.h>
+
+1398269019 source:c:\users\user\desktop\jeu_best\best_zineb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"biblio_structure.h"
+	"fonctions.h"
+
+1398225110 c:\users\user\desktop\jeu_best\best_zineb\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1398271329 c:\users\user\desktop\jeu_best\best_zineb\biblio_structure.h
+	<stdlib.h>
+	<stdio.h>
+
+1398225466 source:c:\users\user\desktop\jeu_best\best_zineb\fonctions_maj.c
+
+1398430612 source:g:\cycle des affaires final\jeu best final\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398287893 g:\cycle des affaires final\jeu best final\biblio_structure.h
+	<stdlib.h>
+	<stdio.h>
+
+1398229066 source:g:\cycle des affaires final\jeu best final\fonctions_maj.c
+
+1398424803 source:g:\cycle des affaires final\jeu best final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398430612 g:\cycle des affaires final\jeu best final\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398274898 source:g:\cycle des affaires final\jeu best - copie\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"biblio_structure.h"
+
+1398274929 g:\cycle des affaires final\jeu best - copie\biblio_structure.h
+	<stdlib.h>
+	<stdio.h>
+
+1398229066 source:g:\cycle des affaires final\jeu best - copie\fonctions_maj.c
+
+1398305649 source:g:\cycle des affaires final\jeu best - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+	"fonctions.h"
+
+1398305444 g:\cycle des affaires final\jeu best - copie\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+
+1398305271 g:\cycle des affaires final\jeu best - copie\structures.h
+
+1398307065 source:c:\users\user\desktop\jeu best\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+
+1398328442 source:c:\users\user\desktop\jeu best\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+	"fonctions.h"
+
+1398329264 c:\users\user\desktop\jeu best\structures.h
+
+1398329461 c:\users\user\desktop\jeu best\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+
+1398329435 source:c:\users\user\desktop\jeu best\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+	"fonctions.h"
+
+1398306948 source:c:\users\user\desktop\jeu best\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+	"fonctions.h"
+
+1398307448 source:c:\users\user\desktop\jeu best\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+	"fonctions.h"
+
+1398373010 source:c:\users\soundouss\desktop\jeu best\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398387806 c:\users\soundouss\desktop\jeu best\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398372825 source:c:\users\soundouss\desktop\jeu best\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420477 c:\users\soundouss\desktop\jeu best\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398420737 source:c:\users\soundouss\desktop\jeu best\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398355780 source:c:\users\soundouss\desktop\jeu best\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420662 source:c:\users\soundouss\desktop\jeu best\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420198 source:c:\users\soundouss\desktop\jeu best\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398372802 source:c:\users\soundouss\desktop\jeu best\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398420188 source:c:\users\soundouss\desktop\jeu best\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398352180 source:c:\users\youness\desktop\jeu best (6)\jeu best\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398422236 c:\users\youness\desktop\jeu best (6)\jeu best\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398416877 c:\users\youness\desktop\jeu best (6)\jeu best\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398417062 source:c:\users\youness\desktop\jeu best (6)\jeu best\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398369410 source:c:\users\youness\desktop\jeu best (6)\jeu best\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398423200 source:c:\users\youness\desktop\jeu best (6)\jeu best\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398369225 source:c:\users\youness\desktop\jeu best (6)\jeu best\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398423034 source:c:\users\youness\desktop\jeu best (6)\jeu best\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398417137 source:c:\users\youness\desktop\jeu best (6)\jeu best\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398352180 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398422236 c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398427192 c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398417062 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398369410 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398423200 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398427753 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398423871 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398427738 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398423768 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\afficher_bilan.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398423776 source:c:\users\soundouss\desktop\jeu best (6)\jeu best (6)\jeu best\fonction_lecture_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398436547 source:c:\users\soundouss\desktop\jeu best final\afficher_bilan.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398447145 c:\users\soundouss\desktop\jeu best final\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398430612 c:\users\soundouss\desktop\jeu best final\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398348580 source:c:\users\soundouss\desktop\jeu best final\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398441281 source:c:\users\soundouss\desktop\jeu best final\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420176 source:c:\users\soundouss\desktop\jeu best final\fonction_lecture_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398430612 source:c:\users\soundouss\desktop\jeu best final\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398437413 source:c:\users\soundouss\desktop\jeu best final\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437330 source:c:\users\soundouss\desktop\jeu best final\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398441614 source:c:\users\soundouss\desktop\jeu best final\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398424803 source:c:\users\soundouss\desktop\jeu best final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420168 source:c:\users\user\desktop\jeu best final1\afficher_bilan.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398418636 c:\users\user\desktop\jeu best final1\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398430612 c:\users\user\desktop\jeu best final1\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398348580 source:c:\users\user\desktop\jeu best final1\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398429817 source:c:\users\user\desktop\jeu best final1\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420176 source:c:\users\user\desktop\jeu best final1\fonction_lecture_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398430612 source:c:\users\user\desktop\jeu best final1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398419600 source:c:\users\user\desktop\jeu best final1\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398424153 source:c:\users\user\desktop\jeu best final1\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420271 source:c:\users\user\desktop\jeu best final1\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398424803 source:c:\users\user\desktop\jeu best final1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398436547 source:c:\users\youness\downloads\jeu best final1\jeu best final1\afficher_bilan.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398436362 c:\users\youness\downloads\jeu best final1\jeu best final1\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398430612 c:\users\youness\downloads\jeu best final1\jeu best final1\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398348580 source:c:\users\youness\downloads\jeu best final1\jeu best final1\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398429817 source:c:\users\youness\downloads\jeu best final1\jeu best final1\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420176 source:c:\users\youness\downloads\jeu best final1\jeu best final1\fonction_lecture_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398430612 source:c:\users\youness\downloads\jeu best final1\jeu best final1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398437413 source:c:\users\youness\downloads\jeu best final1\jeu best final1\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437330 source:c:\users\youness\downloads\jeu best final1\jeu best final1\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437062 source:c:\users\youness\downloads\jeu best final1\jeu best final1\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398424803 source:c:\users\youness\downloads\jeu best final1\jeu best final1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398436547 source:c:\users\soundouss\desktop\best\afficher_bilan.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398436362 c:\users\soundouss\desktop\best\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398430612 c:\users\soundouss\desktop\best\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398348580 source:c:\users\soundouss\desktop\best\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420176 source:c:\users\soundouss\desktop\best\fonction_lecture_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398430612 source:c:\users\soundouss\desktop\best\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+
+1398437413 source:c:\users\soundouss\desktop\best\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437330 source:c:\users\soundouss\desktop\best\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437896 source:c:\users\soundouss\desktop\best\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398424803 source:c:\users\soundouss\desktop\best\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398348580 source:g:\cycle des affaires final\jeu best final\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398447145 g:\cycle des affaires final\jeu best final\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398441281 source:g:\cycle des affaires final\jeu best final\fonction_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398420176 source:g:\cycle des affaires final\jeu best final\fonction_lecture_fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437413 source:g:\cycle des affaires final\jeu best final\fonctions_jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398437330 source:g:\cycle des affaires final\jeu best final\inscription_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
+1398443795 source:g:\cycle des affaires final\jeu best final\jours.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"fonctions.h"
+
